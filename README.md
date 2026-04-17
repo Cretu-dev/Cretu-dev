@@ -1,4 +1,4 @@
-# Hey, I'm Cretu Andrei 👋
+# Hey, I'm Cretu 👋
 
 🚀 Co-founder @ **NVBflow** — Done-for-you AI & automation services  
 ⚡ I build end-to-end automation systems so businesses don't have to  
@@ -21,8 +21,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cretu-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cretu-dev&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-omega-blond-14.vercel.app/api?username=Cretu-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats-omega-blond-14.vercel.app/api/top-langs/?username=Cretu-dev&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
 
 ---
 
