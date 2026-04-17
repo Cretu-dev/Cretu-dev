@@ -36,4 +36,4 @@
 
 ## 📬 Get in Touch
 
-[![Website](https://img.shields.io/badge/-nvbflow.com-000000?style=flat&logo=vercel&logoColor=white)](https://nvbflow.com)
+[![Website](https://img.shields.io/badge/-nvbflow.com-000000?style=flat&logo=google-chrome&logoColor=white)](https://nvbflow.com)
