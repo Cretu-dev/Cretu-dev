@@ -1,4 +1,4 @@
-# Hey, I'm Cretu 👋
+# Hey, I'm Cretu Andrei 👋
 
 🚀 Co-founder @ **NVBflow** — Done-for-you AI & automation services  
 ⚡ I build end-to-end automation systems so businesses don't have to  
