@@ -1,12 +1,12 @@
-# Hey, I'm Cretu Andrei 👋
+# Hey, I'm Cretu Andrei 
 
-🚀 Co-founder @ **NVBflow** — Done-for-you AI & automation services  
-⚡ I build end-to-end automation systems so businesses don't have to  
-📍 Romania &nbsp;|&nbsp; 17 y/o  
+ Co-founder @ **NVBflow** — Done-for-you AI & automation services  
+ I build end-to-end automation systems so businesses don't have to  
+ Romania &nbsp;|&nbsp; 18 y/o  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -19,21 +19,21 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-omega-blond-14.vercel.app/api?username=Cretu-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats-omega-blond-14.vercel.app/api/top-langs/?username=Cretu-dev&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
 
 ---
 
-## 🔧 What I'm Building
+##  What I'm Building
 
-- 🤖 AI-powered automation systems for businesses — social media, CRM, internal ops, and more
-- 📦 Modular, done-for-you workflows managed entirely through NVBflow's platform
-- 🌐 Client dashboards with real-time monitoring and control
+-  AI-powered automation systems for businesses — social media, CRM, internal ops, and more
+-  Modular, done-for-you workflows managed entirely through NVBflow's platform
+-  Client dashboards with real-time monitoring and control
 
 ---
 
-## 📬 Get in Touch
+##  Get in Touch
 
 [![Website](https://img.shields.io/badge/-nvbflow.com-000000?style=flat&logo=google-chrome&logoColor=white)](https://nvbflow.com)
